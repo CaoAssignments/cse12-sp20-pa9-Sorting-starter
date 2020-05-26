@@ -68,7 +68,7 @@ However, do **NOT** use the built-in sort methods from Arrays. If you do, you wi
 
 ### Insertion Sort
 You will be implementing your own Insertion Sort alogirthm. You may base it off the ZyBook pseudocode or write your own. However, it must have the correct behavior of the sorting algorithm and you must follow these requirements: 
-- Your method should be named insertSort and take one arguement, a generic array. 
+- Your method should be named insertionSort and take one arguement, a generic array. 
 
 Method header: `public void insertionSort(E[] array)`
 
