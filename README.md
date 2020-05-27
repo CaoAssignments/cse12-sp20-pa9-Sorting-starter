@@ -53,7 +53,7 @@ You are encouraged to use the pseudocode provided by ZyBooks when applicable! Ma
 
 *  Create a file named Sorting.java. **Sorting is a generic class whose type parameter extends Comparable.**
 * There are various ways to implement these algorithms. To ensure that you won't lose points, please strictly follow the guidelines that we have listed.
-* You will be writing two public methods. One for InsertionSort and one for MergeSort. 
+* You will be writing three public methods. One for InsertionSort and two for MergeSort. 
 
 #### Imports:
 
